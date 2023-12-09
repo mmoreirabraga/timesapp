@@ -1,0 +1,39 @@
+{
+    "times": [
+        {
+            "id": "7b2950b9-0499-46d7-b202-4abaa23a4504",
+            "nome": "Programação",
+            "cor": "#57C278"
+        },
+        {
+            "id": "00cd7dce-787c-48cf-939f-f8c9bf5b56f9",
+            "nome": "Front-End",
+            "cor": "#82CFFA"
+        },
+        {
+            "id": "1002f2f5-80cc-4113-a000-5fb522d8edb9",
+            "nome": "Data Science",
+            "cor": "#A6D157"
+        },
+        {
+            "id": "0dc00b8f-30ab-46d7-8acb-77ba0de257d5",
+            "nome": "Devops",
+            "cor": "#E06B69"
+        },
+        {
+            "id": "6586c4cb-d9d1-40e6-a8e3-70af07ba0ddf",
+            "nome": "UX e Design",
+            "cor": "#DB6EBF"
+        },
+        {
+            "id": "0083df27-f184-4349-96ed-15c793f47c01",
+            "nome": "Mobile",
+            "cor": "#FFBA05"
+        },
+        {
+            "id": "111ceeb1-57d3-4634-a427-9da743fafffb",
+            "nome": "Inovação e Gestão",
+            "cor": "#FF8A29"
+        }
+    ]
+}

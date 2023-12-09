@@ -1,0 +1,61 @@
+{
+    "colaboradores": [
+        {
+            "id": "cf769e01-5750-493f-81eb-95385b606b8d",
+            "favorito": false,
+            "nome": "Matheus Braga",
+            "cargo": "Desenvolvedor de software",
+            "imagem": "https://media.licdn.com/dms/image/C4E03AQHCOf7I0pO6jA/profile-displayphoto-shrink_800_800/0/1616762836871?e=1707350400&v=beta&t=IqYyo-kKxdnRXNUwzJjfimyW9_ekF82GioDT5FierW4",
+            "time": "7b2950b9-0499-46d7-b202-4abaa23a4504"
+          },
+          {
+            "id": "1c2b8a1b-e421-4e03-b5dd-0b59a9cedea4",
+            "favorito": false,
+            "nome": "Leonardo Rodrigues",
+            "cargo": "Desenvolvedor de software",
+            "imagem": "https://media.licdn.com/dms/image/D4D03AQF_O_e9vd0vlQ/profile-displayphoto-shrink_800_800/0/1690208120028?e=1707350400&v=beta&t=40dxQL2gL89WMNxtyWp-9z9SgkOOdxIz3q8pn1kCgcE",
+            "time": "7b2950b9-0499-46d7-b202-4abaa23a4504"
+          },
+          {
+            "id": "1dbcbbcb-789f-42ec-b013-1f8dc3973a6b",
+            "favorito": false,
+            "nome": "Leonardo Rodrigues",
+            "cargo": "Desenvolvedor de software",
+            "imagem": "https://media.licdn.com/dms/image/D4D03AQF_O_e9vd0vlQ/profile-displayphoto-shrink_800_800/0/1690208120028?e=1707350400&v=beta&t=40dxQL2gL89WMNxtyWp-9z9SgkOOdxIz3q8pn1kCgcE",
+            "time": "00cd7dce-787c-48cf-939f-f8c9bf5b56f9"
+          },
+          {
+            "id": "5fbbcd48-17ba-4f9d-b483-fd30b0abd19d",
+            "favorito": false,
+            "nome": "Geanderson Kássio",
+            "cargo": "Programador de Software",
+            "imagem": "https://media.licdn.com/dms/image/C4E03AQFOHLDAOApRbg/profile-displayphoto-shrink_800_800/0/1573664712945?e=1707350400&v=beta&t=tijQwV1TMooRl28pLVNKkSzVUymMdVhmJo7TChcTjig",
+            "time": "6586c4cb-d9d1-40e6-a8e3-70af07ba0ddf"
+          },
+          {
+            "id": "f58ce988-53ba-419e-a799-eca36b316de4",
+            "favorito": false,
+            "nome": "Geanderson Kássio",
+            "cargo": "Porgramador de Software",
+            "imagem": "https://media.licdn.com/dms/image/C4E03AQFOHLDAOApRbg/profile-displayphoto-shrink_800_800/0/1573664712945?e=1707350400&v=beta&t=tijQwV1TMooRl28pLVNKkSzVUymMdVhmJo7TChcTjig",
+            "time": "0083df27-f184-4349-96ed-15c793f47c01"
+          },
+          {
+            "id": "01db8168-50ec-46c9-8eab-48cb4ee6f686",
+            "favorito": false,
+            "nome": "Mariana Braga",
+            "cargo": "Engenheira",
+            "imagem": "https://media.licdn.com/dms/image/C5603AQEAIMIVpna0DQ/profile-displayphoto-shrink_800_800/0/1517067890535?e=1707350400&v=beta&t=-J3hN-NLJfxeaefClFiqDX4qUayoo-Js0aNWbAlb7CA",
+            "time": "111ceeb1-57d3-4634-a427-9da743fafffb"
+          },
+          {
+            "id": "01db8168-50ec-46c9-8eab-48cb4ee6f686",
+            "favorito": false,
+            "nome": "Mariana Braga",
+            "cargo": "Engenheira",
+            "imagem": "https://media.licdn.com/dms/image/C5603AQEAIMIVpna0DQ/profile-displayphoto-shrink_800_800/0/1517067890535?e=1707350400&v=beta&t=-J3hN-NLJfxeaefClFiqDX4qUayoo-Js0aNWbAlb7CA",
+            "time": "0dc00b8f-30ab-46d7-8acb-77ba0de257d5"
+          }
+
+    ]
+}
